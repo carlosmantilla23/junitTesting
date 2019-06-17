@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be9601df-1af6-49c0-937a-329e13dadcd6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/carlosmantilla/javatests/util/StringUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carlosmantilla/javatests/util/StringUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/carlosmantilla/javatests/util/StringUtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/carlosmantilla/javatests/util/StringUtilTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/carlosmantilla/javatests/util/StringUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carlosmantilla/javatests/util/StringUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/carlosmantilla/javatests/util/StringUtilTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/carlosmantilla/javatests/util/StringUtilTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="be9601df-1af6-49c0-937a-329e13dadcd6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,48 +21,30 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2281" />
+          <entry key="java" value="3000" />
           <entry key="xml" value="130" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2281" />
+          <entry key="JAVA" value="3000" />
           <entry key="XML" value="130" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="16" />
+          <entry key="java" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="16" />
+          <entry key="JAVA" value="19" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/carlosmantilla/javatests/player/Player.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/carlosmantilla/javatests/Payments/PaymentProcessorTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -94,11 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/carlosmantilla/javatests/util/StringUtilTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="43" column="46" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
+            <state relative-caret-position="448">
+              <caret line="32" column="38" lean-forward="true" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#706#707#0" expanded="true" />
@@ -109,6 +85,31 @@
                 <element signature="e#986#987#0" expanded="true" />
                 <element signature="e#1043#1044#0" expanded="true" />
                 <element signature="e#1078#1079#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/carlosmantilla/javatests/util/DateUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+              <folding>
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/carlosmantilla/javatests/util/DateUtilTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -165,6 +166,9 @@
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$PROJECT_DIR$</find>
+    </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
     </dirStrings>
@@ -186,6 +190,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/carlosmantilla/javatests/Payments/PaymentProcessorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/carlosmantilla/javatests/util/StringUtil.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/carlosmantilla/javatests/util/StringUtilTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/carlosmantilla/javatests/util/DateUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/carlosmantilla/javatests/util/DateUtilTest.java" />
       </list>
     </option>
   </component>
@@ -308,9 +314,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.carlosmantilla.javatests.util" />
       <recent name="com.carlosmantilla.javatests.Payments" />
       <recent name="com.carlosmantilla.javatests.player" />
-      <recent name="com.carlosmantilla.javatests.util" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -332,7 +338,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StringUtilTest">
+  <component name="RunManager" selected="JUnit.DateUtilTest">
+    <configuration name="DateUtilTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javatests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.carlosmantilla.javatests.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.carlosmantilla.javatests.util" />
+      <option name="MAIN_CLASS_NAME" value="com.carlosmantilla.javatests.util.DateUtilTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateUtilTest.return_true_when_year_Is_divisible_by_400" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javatests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.carlosmantilla.javatests.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.carlosmantilla.javatests.util" />
+      <option name="MAIN_CLASS_NAME" value="com.carlosmantilla.javatests.util.DateUtilTest" />
+      <option name="METHOD_NAME" value="return_true_when_year_Is_divisible_by_400" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PaymentProcessorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javatests" />
       <extension name="coverage">
@@ -343,36 +379,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.carlosmantilla.javatests.Payments" />
       <option name="MAIN_CLASS_NAME" value="com.carlosmantilla.javatests.Payments.PaymentProcessorTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PlayerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javatests" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.carlosmantilla.javatests.player.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.carlosmantilla.javatests.player" />
-      <option name="MAIN_CLASS_NAME" value="com.carlosmantilla.javatests.player.PlayerTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PlayerTest.looses_when_dice_number_is_too_low" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javatests" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.carlosmantilla.javatests.player.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.carlosmantilla.javatests.player" />
-      <option name="MAIN_CLASS_NAME" value="com.carlosmantilla.javatests.player.PlayerTest" />
-      <option name="METHOD_NAME" value="looses_when_dice_number_is_too_low" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -409,18 +415,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.StringUtilTest" />
-      <item itemvalue="JUnit.PlayerTest.looses_when_dice_number_is_too_low" />
-      <item itemvalue="JUnit.PlayerTest" />
       <item itemvalue="JUnit.PaymentProcessorTest" />
       <item itemvalue="JUnit.StringUtilTest.string_spaces_is_empty" />
+      <item itemvalue="JUnit.DateUtilTest" />
+      <item itemvalue="JUnit.DateUtilTest.return_true_when_year_Is_divisible_by_400" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DateUtilTest" />
+        <item itemvalue="JUnit.DateUtilTest.return_true_when_year_Is_divisible_by_400" />
         <item itemvalue="JUnit.StringUtilTest" />
         <item itemvalue="JUnit.StringUtilTest.string_spaces_is_empty" />
         <item itemvalue="JUnit.PaymentProcessorTest" />
-        <item itemvalue="JUnit.PlayerTest" />
-        <item itemvalue="JUnit.PlayerTest.looses_when_dice_number_is_too_low" />
       </list>
     </recent_temporary>
   </component>
@@ -435,44 +441,45 @@
       <option name="presentableId" value="Default" />
       <updated>1558303810005</updated>
       <workItem from="1558303812418" duration="7977000" />
-      <workItem from="1560727135559" duration="1790000" />
+      <workItem from="1560727135559" duration="4079000" />
     </task>
+    <option name="searchClosedTasks" value="true" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PlayerTest - 2019.05.19 at 20h 58m 08s.xml">
-      <configuration name="PlayerTest" configurationId="JUnit" />
+    <history-entry file="DateUtilTest - 2019.06.16 at 19h 19m 04s.xml">
+      <configuration name="DateUtilTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PlayerTest - 2019.05.19 at 22h 16m 16s.xml">
-      <configuration name="PlayerTest" configurationId="JUnit" />
+    <history-entry file="DateUtilTest - 2019.06.16 at 19h 19m 30s.xml">
+      <configuration name="DateUtilTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PlayerTest - 2019.05.19 at 22h 16m 43s.xml">
-      <configuration name="PlayerTest" configurationId="JUnit" />
+    <history-entry file="DateUtilTest - 2019.06.16 at 19h 20m 19s.xml">
+      <configuration name="DateUtilTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PaymentProcessorTest - 2019.05.19 at 22h 20m 18s.xml">
-      <configuration name="PaymentProcessorTest" configurationId="JUnit" />
+    <history-entry file="DateUtilTest - 2019.06.16 at 19h 21m 53s.xml">
+      <configuration name="DateUtilTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PaymentProcessorTest - 2019.05.19 at 22h 23m 51s.xml">
-      <configuration name="PaymentProcessorTest" configurationId="JUnit" />
+    <history-entry file="DateUtilTest - 2019.06.16 at 19h 24m 11s.xml">
+      <configuration name="DateUtilTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PaymentProcessorTest - 2019.06.16 at 18h 33m 45s.xml">
-      <configuration name="PaymentProcessorTest" configurationId="JUnit" />
+    <history-entry file="DateUtilTest_return_true_when_year_Is_divisible_by_400 - 2019.06.16 at 19h 25m 20s.xml">
+      <configuration name="DateUtilTest.return_true_when_year_Is_divisible_by_400" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringUtilTest - 2019.06.16 at 18h 48m 12s.xml">
-      <configuration name="StringUtilTest" configurationId="JUnit" />
+    <history-entry file="DateUtilTest - 2019.06.16 at 19h 25m 50s.xml">
+      <configuration name="DateUtilTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringUtilTest - 2019.06.16 at 18h 48m 22s.xml">
-      <configuration name="StringUtilTest" configurationId="JUnit" />
+    <history-entry file="DateUtilTest - 2019.06.16 at 19h 38m 08s.xml">
+      <configuration name="DateUtilTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringUtilTest_string_spaces_is_empty - 2019.06.16 at 18h 48m 38s.xml">
-      <configuration name="StringUtilTest.string_spaces_is_empty" configurationId="JUnit" />
+    <history-entry file="DateUtilTest - 2019.06.16 at 19h 38m 35s.xml">
+      <configuration name="DateUtilTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringUtilTest - 2019.06.16 at 18h 48m 44s.xml">
-      <configuration name="StringUtilTest" configurationId="JUnit" />
+    <history-entry file="DateUtilTest - 2019.06.16 at 19h 39m 11s.xml">
+      <configuration name="DateUtilTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9767000" />
+    <option name="totallyTimeSpent" value="12056000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -483,6 +490,7 @@
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.32891566" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.27831325" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3192771" />
@@ -597,8 +605,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/carlosmantilla/javatests/util/StringUtilTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="43" column="46" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
+        <state relative-caret-position="448">
+          <caret line="32" column="38" lean-forward="true" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#706#707#0" expanded="true" />
@@ -609,6 +617,38 @@
             <element signature="e#986#987#0" expanded="true" />
             <element signature="e#1043#1044#0" expanded="true" />
             <element signature="e#1078#1079#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="921" selection-start-line="921" selection-end-line="921" />
+          <folding>
+            <element signature="e#35031#35032#0" expanded="true" />
+            <element signature="e#35078#35079#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/carlosmantilla/javatests/util/DateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/carlosmantilla/javatests/util/DateUtilTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
